@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=ajayfroiden" alt="Profile Views" />
 </p>
 
-- 🔭 I’m currently working on [Worksuite Mobile App](https://1.envato.market/worksuite)
+- 🔭 I’m currently working on [Tutorials videos for https://www.youtube.com/@worksuite](https://www.youtube.com/@worksuite)
 - 🌱 I’m currently learning **Framework7**
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/ajayfroiden)
 - 💬 Ask me about **React, Vue, and Laravel**
